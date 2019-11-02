@@ -1,0 +1,14 @@
+<juguetes>
+<juguete ID="1">
+<nombre>Carro con prepulsión
+</nombre>
+<descripción>carro con impulso hacia atrás.
+</descripción>
+</juguete>
+<juguete ID="2">
+<nombre>Barbie de nieve 
+</nombre>
+<descripción>Barbie con sus accesorios de patinaje sobre nieve.
+</descripción>
+</juguete>
+</juguetes>
