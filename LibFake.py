@@ -1,5 +1,6 @@
 #Creado por Natalia Vargas
 #Version 3.7.2
+#Hay que descargar el modulo
 from faker import Faker
 import random
 
