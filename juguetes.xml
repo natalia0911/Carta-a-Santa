@@ -6,9 +6,63 @@
 </descripción>
 </juguete>
 <juguete ID="2">
-<nombre>Barbie de nieve 
+<nombre>Barbie de nieve
 </nombre>
 <descripción>Barbie con sus accesorios de patinaje sobre nieve.
+</descripción>
+</juguete>
+<juguete ID="3">
+<nombre>Barbie enfermera
+</nombre>
+<descripción>Barbie con sus accesorios de enfermería.
+</descripción>
+</juguete>
+<juguete ID="4">
+<nombre>Barbie programadora
+</nombre>
+<descripción>Barbie con sus accesorios de programadora, es la más cool.
+</descripción>
+</juguete>
+<juguete ID="5">
+<nombre>Peluche Pooh
+</nombre>
+<descripción>Peluche mediano del personaje Pooh.
+</descripción>
+</juguete>
+<juguete ID="6">
+<nombre>Figura de acción Batman
+</nombre>
+<descripción>Figura de acción Batman con sus accesorios y batimóvil.
+</descripción>
+</juguete>
+<juguete ID="7">
+<nombre>Peluche Dango
+</nombre>
+<descripción>Peluche Dango de la serie clannad.
+</descripción>
+</juguete>
+<juguete ID="8">
+<nombre>Funko Naruto shippuden
+</nombre>
+<descripción>Figura de funko de Naruto shippuden.
+</descripción>
+</juguete>
+<juguete ID="9">
+<nombre>Bebé paco
+</nombre>
+<descripción>Muñeco bebé paco negro.
+</descripción>
+</juguete>
+<juguete ID="10">
+<nombre>Computadora de juguete
+</nombre>
+<descripción>Computadora para juegos.
+</descripción>
+</juguete>
+<juguete ID="11">
+<nombre>Libro El principito
+</nombre>
+<descripción>Libro El principito escrito por Antoine de Saint-Exupéry.
 </descripción>
 </juguete>
 </juguetes>
